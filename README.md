@@ -45,14 +45,7 @@ chmod +x xokirTools.sh
 ```
 
 
-## Installation [Windows](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 
-```
-git clone https://github.com/xokirBios/xokirTools/
-cd xokirTools
-chmod +x xokirTools.sh
-./xokirTools.sh
-```
 
 
 
