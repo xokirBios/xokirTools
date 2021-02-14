@@ -17,7 +17,6 @@
 
 ### IP Address
 
-   -= IP Address =-
    * GeoIP – IP Location Lookup
    * Reverse IP Lookup
    * TCP Port Scan
