@@ -1,0 +1,8 @@
+██████╗ ███████╗██╗   ██╗███████╗██████╗ ███████╗███████╗██╗██████╗ 
+██╔══██╗██╔════╝██║   ██║██╔════╝██╔══██╗██╔════╝██╔════╝██║██╔══██╗
+██████╔╝█████╗  ██║   ██║█████╗  ██████╔╝███████╗█████╗  ██║██████╔╝
+██╔══██╗██╔══╝  ╚██╗ ██╔╝██╔══╝  ██╔══██╗╚════██║██╔══╝  ██║██╔═══╝ 
+██║  ██║███████╗ ╚████╔╝ ███████╗██║  ██║███████║███████╗██║██║     
+╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝     
+                                                                    
+=== Perform a reverse IP lookup to find all A records associated with an IP address. The results can pinpoint virtual hosts being served from a web server. Information gathered can be used to expand the attack surface when identifying vulnerabilities on a server ===

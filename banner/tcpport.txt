@@ -1,0 +1,8 @@
+████████╗ ██████╗██████╗     ██████╗  ██████╗ ██████╗ ████████╗
+╚══██╔══╝██╔════╝██╔══██╗    ██╔══██╗██╔═══██╗██╔══██╗╚══██╔══╝
+   ██║   ██║     ██████╔╝    ██████╔╝██║   ██║██████╔╝   ██║   
+   ██║   ██║     ██╔═══╝     ██╔═══╝ ██║   ██║██╔══██╗   ██║   
+   ██║   ╚██████╗██║         ██║     ╚██████╔╝██║  ██║   ██║   
+   ╚═╝    ╚═════╝╚═╝         ╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝   
+                                                               
+=== A simple TCP Port Scan to quickly determine the status of an Internet facing service or firewall. Uses the powerful Nmap port scanner. Note that this scan will test for common services only (21) FTP, (22) SSH, (23) Telnet, (80) HTTP, (110) POP3, (143) IMAP, (443) HTTPS and (3389) RDP. Nmap version detection ( -sV ) is not enabled ===

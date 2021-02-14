@@ -1,0 +1,10 @@
+██╗   ██╗██████╗ ██████╗     ███████╗ ██████╗ █████╗ ███╗   ██╗
+██║   ██║██╔══██╗██╔══██╗    ██╔════╝██╔════╝██╔══██╗████╗  ██║
+██║   ██║██║  ██║██████╔╝    ███████╗██║     ███████║██╔██╗ ██║
+██║   ██║██║  ██║██╔═══╝     ╚════██║██║     ██╔══██║██║╚██╗██║
+╚██████╔╝██████╔╝██║         ███████║╚██████╗██║  ██║██║ ╚████║
+ ╚═════╝ ╚═════╝ ╚═╝         ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+                                                               
+=== Online UDP port scan available for common UDP services. The UDP port scan is part of the IP Tools range of network testing tools. The test uses the excellent Nmap Port Scanner to scan 5 of the most common UDP ports ===
+
+=== Ports tested in the quick UDP scan are DNS 53, TFTP 69, NTP 123, SNMP 161, mDNS 5353, UPNP 1900 and Memcached 11211 ===

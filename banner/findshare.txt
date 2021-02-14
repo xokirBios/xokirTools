@@ -1,0 +1,9 @@
+███████╗██╗███╗   ██╗██████╗     ███████╗██╗  ██╗ █████╗ ██████╗ ███████╗██████╗ 
+██╔════╝██║████╗  ██║██╔══██╗    ██╔════╝██║  ██║██╔══██╗██╔══██╗██╔════╝██╔══██╗
+█████╗  ██║██╔██╗ ██║██║  ██║    ███████╗███████║███████║██████╔╝█████╗  ██║  ██║
+██╔══╝  ██║██║╚██╗██║██║  ██║    ╚════██║██╔══██║██╔══██║██╔══██╗██╔══╝  ██║  ██║
+██║     ██║██║ ╚████║██████╔╝    ███████║██║  ██║██║  ██║██║  ██║███████╗██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═══╝╚═════╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝ 
+                                                                                 
+Find hosts sharing DNS servers. Discovering additional domains and host names from a shared DNS server search enables a security analyst to link related systems. 
+		===Finding all related and accessible systems is the only way to truly assess the security of an organization===
