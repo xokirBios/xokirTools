@@ -1,5 +1,5 @@
 # xokirTools
-
+![](http://image.noelshack.com/fichiers/2021/06/7/1613308929-xokirtools.png)
 ![OS](https://img.shields.io/badge/Tested%20On-Linux%20|%20OSX%20|%20Windows%20|%20Android-yellowgreen.svg?style=flat-square) 
 
 
@@ -56,7 +56,4 @@ chmod +x xokirTools.sh
 ```
 
 
-# Screenshots
-
-[![asciicast](http://image.noelshack.com/fichiers/2021/06/7/1613308929-xokirtools.png)
 
